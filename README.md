@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ... Building a website www.fibrous.com;
+- 🌱 I’m currently learning ... html, css, javascript;
+- 💬 Ask me about ... Art and Music;
+- 📫 How to reach me: ... aholland071@gmail.com;
+- ⚡ Fun fact: ... I'm 32
 
 <!--
 **Cal-ixo/Cal-ixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
